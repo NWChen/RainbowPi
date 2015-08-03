@@ -1,2 +1,2 @@
 # jail-lights
-IOT connected mood lighting
+IoT connected mood lighting
