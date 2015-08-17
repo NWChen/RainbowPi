@@ -1,7 +1,7 @@
-## Firecracker
+## Diadem
 IoT connected mood lighting
 
 ### Components
 * Adafruit Neopixel
-* Node.js
+* Python
 * Raspberry Pi
