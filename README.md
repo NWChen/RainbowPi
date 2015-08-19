@@ -1,4 +1,4 @@
-## Diadem
+## RainbowPi
 IoT connected mood lighting
 
 ### Components
