@@ -1,0 +1,7 @@
+# SolidWorks files
+*.sldprt
+*.sldasm
+*.SLDPRT
+*.SLDASM
+
+/raspberry-pi-model-b-2.snapshot.15
