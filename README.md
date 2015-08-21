@@ -6,4 +6,4 @@ IoT connected mood lighting
 * Python
 * Raspberry Pi
 
-![](http://i.imgur.com/BBrbvqJ.png)
+![](http://i.imgur.com/8BOjaZI.png)
